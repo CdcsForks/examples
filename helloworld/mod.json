@@ -1,0 +1,13 @@
+{
+    "geode":        1,
+	"version":      "v1.0.0",
+	"id":           "com.geode.helloworld",
+    "name":         "Hello World",
+    "developer":    "Geode",
+    "description":  "This is a short description!",
+    "details":      "This is a longer description!",
+    "credits": null,
+	"dependencies": null,
+    "binary":       "HelloWorld",
+    "settings":     null
+}

@@ -1,0 +1,20 @@
+{
+    "geode":        1,
+	"version":      "v1.0.0",
+	"id":           "com.hjfod.rilsa",
+    "name":         "R.I.L.S.A",
+    "developer":    "HJfod",
+    "description":  "Ridiculously Impractical Loading Screen Animation",
+    "details":      "Ridiculously Impractical Loading Screen Animation",
+    "credits": null,
+	"dependencies": null,
+    "binary":       "RILSA",
+    "settings":     null,
+    "resources": {
+        "files": [
+            "geode-logo-inner.png",
+            "geode-logo-outer.png",
+            "geode-loading-circle.png"
+        ]
+    }
+}
