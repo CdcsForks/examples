@@ -4,3 +4,5 @@ project(GeodeExamples)
 
 add_subdirectory(rilsa)
 add_subdirectory(helloworld)
+# This one is incompatible with rilsa, lol
+# add_subdirectory(loadingtext)

@@ -1,0 +1,18 @@
+{
+    "geode":        1,
+	"version":      "v1.0.0",
+	"id":           "com.geode.loadingtext",
+    "name":         "Custom Loading Text",
+    "developer":    "Geode",
+    "description":  "Makes the loading text... different",
+    "details":      "Makes the loading text... different",
+    "credits":      null,
+	"dependencies": null,
+    "binary":       "LoadingTextExample",
+    "settings":     null,
+    "resources": {
+        "files": [
+            "loadingImage.png"
+        ]
+    }
+}
